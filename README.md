@@ -1,12 +1,13 @@
 # EXP-2 Java program to compare two numbers
 # AIM:
-To compare two numbers in java
+To compare two numbers using java programming language.
+
 # PROCEDURE:
-## Step 1:
-## Step2:
-## Step 3:
-## Step 4:
-## Step 5:
+1. Import required packages.
+2. Declare main method with the signature "public static void main(String[] args)".
+3. Get two numbers as input.
+4. Compare two numbers using else-if ladder.
+5. Dispaly the output accordingly.
 
 # PROGRAM:
 ```
@@ -36,3 +37,7 @@ public class compare {
 ```
 # OUTPUT:
 ![image](https://github.com/Evangelin-Ruth/compare/assets/94219798/0f5d587c-95b2-46e7-93b1-11c2affdabd1)
+
+# RESULT:
+To compare two numbers using java programming language was successfully done.
+
